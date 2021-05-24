@@ -1,0 +1,146 @@
+#box{
+	background-color: #999DAD;
+	border-width: 2px;
+	border-color: #4B494B;
+	border-style: solid;
+	border-radius: 5%;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	width: 313px;
+	height: 400px;
+}
+
+#screen{
+	background-color: white;
+	padding: 10px;
+	border-width: 2px;
+	border-color: #4B494B;
+	border-style: solid;
+	width:290px;
+	height: 32px;
+	text-align: right;
+	font-family: consolas;
+	font-size: 30px;
+}
+#keyboard{
+	position: absolute;
+	top:30px;
+	left: 0px;
+	background-color: red
+}
+.button{
+	background-color: #C5C6D0;
+	padding:10px;
+	width: 50px;
+	height: 30px;
+	text-align: center;
+	border-radius: 5px;
+	border-style: solid;
+	border-color: #7F7D9C;
+
+}
+#keyboard{
+	background-color: red;
+}
+#zero{
+	position: absolute;
+	left:105px;
+	top:135px;
+}
+#un{
+	position:absolute;
+	top:135px;
+	left:20px;
+}
+
+#deux{
+	position: absolute;
+	top: 135px;
+	left:100px;
+}
+
+#trois{
+	position: absolute;
+	top: 135px;
+	left:180px;
+}
+#plus{
+	position: absolute;
+	top: 135px;
+	left:260px;
+}
+
+#quatre{
+	position: absolute;
+	top: 195px;
+	left:20px;
+}
+
+#cinq{
+	position: absolute;
+	top: 195px;
+	left:100px;
+}
+
+#six{
+	position: absolute;
+	top: 195px;
+	left:180px;
+}
+
+#moins{
+	position: absolute;
+	top: 195px;
+	left:260px;
+}
+#sept{
+	position: absolute;
+	top: 255px;
+	left:20px;
+}
+#huit{
+	position: absolute;
+	top: 255px;
+	left:100px;
+}
+
+#neuf{
+	position: absolute;
+	top: 255px;
+	left:180px;
+}
+
+#fois{
+	position: absolute;
+	top: 255px;
+	left:260px;
+}
+
+#virgule{
+	position: absolute;
+	top: 315px;
+	left:20px;
+}
+#zero{
+	position: absolute;
+	top: 315px;
+	left:100px;
+}
+#ex{
+	position: absolute;
+	top: 315px;
+	left:180px;
+}
+
+#divise{
+	position: absolute;
+	top: 315px;
+	left:260px;
+}
+
+
+
+
+
